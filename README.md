@@ -5,7 +5,7 @@
 # 🛑⚠️PLEASE READ!⚠️🛑
 This extension is designed for **CHROMIUM-BASED BROWSERS ONLY!**
 
-Please note that this GitHub repo contains the original files to the extension. Most browsers have security in place that may block this extension from being installed via the CRX file.<br>
+Please note that this GitHub repo contains the source code files to the extension. Most browsers have security in place that may block this extension from being installed via the CRX file.<br>
 ***The extension does nothing malicious. All source code for the extension is in this repo.***<br>
 For the most optimal results, please check out the extension on the Opera Store and Chrome Web Store pages. *(COMING SOON, they're still being approved!)*
 

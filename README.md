@@ -11,8 +11,8 @@ For the most optimal results, please check out the extension on the Opera Store 
 
 ### **The extension should only be downloaded here if absolutely necessary.**
 
-### [Check out X Logo Replacer on my website](https://antaptive.com/projects/xlogoreplacer)<br>
-### [Check out my other projects](https://antaptive.com/projects)
+### [Check out X Logo Replacer on my website!](https://antaptive.com/projects/xlogoreplacer)<br>
+### [Check out my other projects!](https://antaptive.com/projects)
 
 # How to use
 Simply install the plugin, and using the extension popup, set the text to whatever you want and enable the extension!<br>

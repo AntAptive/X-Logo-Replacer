@@ -18,9 +18,9 @@ The change will take effect every time Twitter is initially loaded.
 1. Check our [Releases page](https://github.com/AntAptive/x-logo-replacer/releases) to download the latest release.
 2. Download the CRX file and drop it into your browser's extensions page. Usually you can drop it anywhere.
 
-# If the extension fails to load or gets blocked by your browser
+## If the extension fails to load or gets blocked by your browser
 1. Download the source code ZIP instead of the CRX file.
-2. Delete the files `README.md` and `xLogoReplacerBanner.png`.
+2. Delete the files `README.md` and `xLogoReplacerBanner.png` from the root folder.
 3. Ensure your browser has Developer Mode on. Usually there's a tickbox on your browser's extension page.
 4. Extract the ZIP to a folder and load the extension "unpacked".
 

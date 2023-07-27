@@ -1,0 +1,61 @@
+.title{
+    /*white-space: nowrap;*/
+    text-align: center;
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+.footertext{
+    padding: 2px 0px 2px 0px;
+    text-align: center;
+    font-size: 15px;
+    width: 100%;
+    display: block;
+}
+
+html {
+    background: linear-gradient(90deg, rgb(34, 180, 199) 0%, rgb(143, 49, 194) 100%);
+}
+
+h1 {
+    color: white;
+}
+
+strong {
+    color: white;
+}
+
+.label {
+    color: white;
+}
+
+input {
+    border-color: rgb(65, 65, 65) !important;
+}
+
+a {
+    color: rgb(226, 252, 255);
+    transition-duration: 200ms;
+}
+
+a:hover {
+    color: rgb(32, 35, 255);
+}
+
+.button {
+    transition-duration: 150ms;
+}
+
+#enableButton:hover {
+    background-color: white;
+    color: rgb(0, 146, 97);
+    border-width: 1px;
+    border-color: rgb(0, 146, 97);
+}
+
+#disableButton:hover {
+    background-color: white;
+    color: rgb(255, 0, 0);
+    border-width: 1px;
+    border-color: rgb(255, 0, 0);
+}

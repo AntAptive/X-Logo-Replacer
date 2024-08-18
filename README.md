@@ -13,7 +13,7 @@ This GitHub repo contains the source code files to the extension. Most browsers 
 
 
 
-### [Check out X Logo Replacer on my website!](https://antaptive.com/projects/xlogoreplacer) | [Check out my other projects!](https://antaptive.com/projects)
+### [Check out my other projects!](https://antaptive.com/projects)
 
 # How to use
 ### Simply install the plugin, and using the extension popup, set the text to whatever you want and enable the extension!
